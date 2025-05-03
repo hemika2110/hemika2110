@@ -1,6 +1,6 @@
 # Hi there, I'm Hemika Amilineni🚀
 
-[Portfolio](https://manojreddy-2k.github.io/Manoj_portfolio/about)
+
 
 # 📜 About Me
 I,m Hemika Amilineni, a graduate student in Computer Science at the University of Kansas, passionate about software development, machine learning, and full-stack web development. With a background in Data Structures and Algorithms, computer vision, deep learning, and data privacy. I have industry experience as a Software Engineer at Infosys, where I contributed to database migration and automation solutions, as well as a Machine Learning internship at Dhaapps. My expertise spans backend technologies (Node.js, Spring Boot), frontend frameworks (React, Angular), and AI/ML frameworks (TensorFlow, PyTorch). Beyond my technical skills, I have a strong passion for teaching and mentoring, having worked as a Graduate Teaching Assistant for programming courses and streamlined student grading processes with automation. When I'm not coding, I enjoy playing table tennis, designing creative content, and exploring new technologies. I'm always looking for new challenges and opportunities to create impactful solutions.
